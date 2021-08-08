@@ -2,6 +2,7 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png" />
     <HelloWorld msg="いええええいい" />
+    <div>とーやです！！！！！！！！！！！！！！！！</div>
   </div>
 </template>
 
